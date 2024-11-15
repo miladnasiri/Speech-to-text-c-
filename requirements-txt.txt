@@ -1,0 +1,8 @@
+# .NET Packages
+NAudio==2.2.1
+Vosk==0.3.38
+VaderSharp2==3.3.2.1
+
+# System Requirements
+FFmpeg
+dotnet-sdk-8.0
