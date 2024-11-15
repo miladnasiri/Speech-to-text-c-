@@ -113,14 +113,6 @@ Implements the VADER algorithm through VaderSharp2 to analyze text sentiment, pr
 ### Transcript Storage
 Automatically saves all transcripts with timestamps and sentiment data for future reference.
 
-## Troubleshooting
-
-If you encounter any issues:
-
-1. Make sure all prerequisites are installed
-2. Check if the Vosk model is properly downloaded
-3. Ensure microphone permissions are granted in browser
-4. Verify FFmpeg is installed correctly
 
 ## Support
 
