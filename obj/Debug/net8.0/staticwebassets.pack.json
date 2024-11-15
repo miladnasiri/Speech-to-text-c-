@@ -557,6 +557,22 @@
       "PackagePath": "staticwebassets/transcripts/transcript_20241115_124450.txt"
     },
     {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_162027.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_162027.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_162027.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_162027.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_163922.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_163922.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_163922.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_163922.txt"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.milad-speechforcsharp.props",
       "PackagePath": "build\\milad-speechforcsharp.props"
     },

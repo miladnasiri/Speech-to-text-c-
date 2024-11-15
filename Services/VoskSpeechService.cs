@@ -23,34 +23,37 @@ namespace milad_speechforcsharp.Services
         {
             try
             {
-                using var reader = new BinaryReader(audioStream);
+                _logger.LogInformation("Starting speech recognition");
                 
-                // Skip WAV header (44 bytes)
-                reader.BaseStream.Position = 44;
+                // Read the entire stream into memory
+                using var memoryStream = new MemoryStream();
+                await audioStream.CopyToAsync(memoryStream);
+                memoryStream.Position = 44; // Skip WAV header
                 
-                byte[] buffer = new byte[4096];
+                var buffer = new byte[8192];
                 int bytesRead;
                 
-                while ((bytesRead = await audioStream.ReadAsync(buffer)) > 0)
+                while ((bytesRead = memoryStream.Read(buffer, 0, buffer.Length)) > 0)
                 {
                     if (_recognizer.AcceptWaveform(buffer, bytesRead))
                     {
-                        var partialResult = _recognizer.PartialResult();
-                        _logger.LogDebug($"Partial result: {partialResult}");
+                        var result = _recognizer.PartialResult();
+                        _logger.LogInformation($"Partial recognition: {result}");
                     }
                 }
 
                 var finalResult = _recognizer.FinalResult();
                 _logger.LogInformation($"Final result: {finalResult}");
-
-                var doc = JsonDocument.Parse(finalResult);
-                var text = doc.RootElement.GetProperty("text").GetString();
                 
+                var text = JsonDocument.Parse(finalResult)
+                    .RootElement.GetProperty("text").GetString();
+                
+                _logger.LogInformation($"Recognized text: {text}");
                 return text ?? string.Empty;
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error processing audio");
+                _logger.LogError(ex, "Speech recognition error");
                 throw;
             }
         }

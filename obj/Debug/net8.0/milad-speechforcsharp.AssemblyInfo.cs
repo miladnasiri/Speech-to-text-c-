@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("milad-speechforcsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f97190db18960ec063192c9513a0bb57866f5a74")]
 [assembly: System.Reflection.AssemblyProductAttribute("milad-speechforcsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("milad-speechforcsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

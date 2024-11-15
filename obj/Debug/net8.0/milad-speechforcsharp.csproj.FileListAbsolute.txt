@@ -42,3 +42,4 @@
 /home/milad/Desktop/milad-speechforcsharp/obj/Debug/net8.0/milad-speechforcsharp.pdb
 /home/milad/Desktop/milad-speechforcsharp/obj/Debug/net8.0/milad-speechforcsharp.genruntimeconfig.cache
 /home/milad/Desktop/milad-speechforcsharp/obj/Debug/net8.0/ref/milad-speechforcsharp.dll
+/home/milad/Desktop/milad-speechforcsharp/obj/Debug/net8.0/milad-speechforcsharp.sourcelink.json

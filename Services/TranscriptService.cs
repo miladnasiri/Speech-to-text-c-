@@ -13,6 +13,7 @@ namespace milad_speechforcsharp.Services
             _logger = logger;
             _transcriptDirectory = Path.Combine(env.WebRootPath, "transcripts");
             Directory.CreateDirectory(_transcriptDirectory);
+            _logger.LogInformation($"Transcript directory: {_transcriptDirectory}");
         }
 
         public async Task<List<Transcript>> GetTranscriptsAsync()
@@ -46,7 +47,7 @@ namespace milad_speechforcsharp.Services
                 }
                 catch (Exception ex)
                 {
-                    _logger.LogError(ex, "Error loading transcript: {File}", file);
+                    _logger.LogError(ex, $"Error loading transcript: {file}");
                 }
             }
 
@@ -55,22 +56,38 @@ namespace milad_speechforcsharp.Services
 
         public async Task SaveTranscriptAsync(string text, SentimentScore sentiment)
         {
-            var timestamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
-            var filename = $"transcript_{timestamp}";
+            try
+            {
+                var timestamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
+                var fileName = $"transcript_{timestamp}.txt";
+                var filePath = Path.Combine(_transcriptDirectory, fileName);
 
-            await File.WriteAllTextAsync(
-                Path.Combine(_transcriptDirectory, $"{filename}.txt"),
-                text);
+                // Save transcript text
+                await File.WriteAllTextAsync(filePath, text);
+                _logger.LogInformation($"Saved transcript: {filePath}");
 
-            await File.WriteAllTextAsync(
-                Path.Combine(_transcriptDirectory, $"{filename}.json"),
-                JsonSerializer.Serialize(sentiment));
+                // Save sentiment data
+                var sentimentPath = Path.ChangeExtension(filePath, ".json");
+                await File.WriteAllTextAsync(
+                    sentimentPath,
+                    JsonSerializer.Serialize(sentiment, new JsonSerializerOptions { WriteIndented = true }));
+                _logger.LogInformation($"Saved sentiment: {sentimentPath}");
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error saving transcript");
+                throw;
+            }
         }
 
-        public Task<Stream> GetTranscriptFileAsync(string filename)
+        public async Task<Stream> GetTranscriptFileAsync(string filename)
         {
             var path = Path.Combine(_transcriptDirectory, filename);
-            return Task.FromResult<Stream>(File.OpenRead(path));
+            if (!File.Exists(path))
+            {
+                throw new FileNotFoundException("Transcript file not found", filename);
+            }
+            return File.OpenRead(path);
         }
     }
 }
