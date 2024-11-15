@@ -1,5 +1,5 @@
 # Speech-to-Text C# Dashboard
-[!Dashboard](https://github.com/miladnasiri/Speech-to-text-c-/blob/bbb11aa16c35293d40f0e1be04bc4773b7b5d92f/Dashboard.png)
+![Dashboard](https://github.com/miladnasiri/Speech-to-text-c-/blob/bbb11aa16c35293d40f0e1be04bc4773b7b5d92f/Dashboard.png)
 Real-time speech recognition and sentiment analysis web application built with ASP.NET Core and Vosk.
 
 ## Features
