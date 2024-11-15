@@ -1,0 +1,577 @@
+{
+  "Files": [
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/obj/Debug/net8.0/scopedcss/projectbundle/milad-speechforcsharp.bundle.scp.css",
+      "PackagePath": "staticwebassets/milad-speechforcsharp.bundle.scp.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/js/speech.js",
+      "PackagePath": "staticwebassets/js/speech.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15.zip",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15.zip"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15.zip.1",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15.zip.1"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15.zip.2",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15.zip.2"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/README",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/am/final.mdl",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/am/final.mdl"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/conf/mfcc.conf",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/conf/mfcc.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/conf/model.conf",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/conf/model.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/graph/Gr.fst",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/graph/Gr.fst"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/graph/HCLr.fst",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/graph/HCLr.fst"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/graph/disambig_tid.int",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/graph/disambig_tid.int"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/graph/phones/word_boundary.int",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/graph/phones/word_boundary.int"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/ivector/final.dubm",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/ivector/final.dubm"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/ivector/final.ie",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/ivector/final.ie"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/ivector/final.mat",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/ivector/final.mat"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/ivector/global_cmvn.stats",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/ivector/global_cmvn.stats"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/ivector/online_cmvn.conf",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/ivector/online_cmvn.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model-small-en-us-0.15/ivector/splice.conf",
+      "PackagePath": "staticwebassets/models/vosk-model-small-en-us-0.15/ivector/splice.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/README",
+      "PackagePath": "staticwebassets/models/vosk-model"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/am/final.mdl",
+      "PackagePath": "staticwebassets/models/vosk-model/am/final.mdl"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/conf/mfcc.conf",
+      "PackagePath": "staticwebassets/models/vosk-model/conf/mfcc.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/conf/model.conf",
+      "PackagePath": "staticwebassets/models/vosk-model/conf/model.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/graph/Gr.fst",
+      "PackagePath": "staticwebassets/models/vosk-model/graph/Gr.fst"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/graph/HCLr.fst",
+      "PackagePath": "staticwebassets/models/vosk-model/graph/HCLr.fst"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/graph/disambig_tid.int",
+      "PackagePath": "staticwebassets/models/vosk-model/graph/disambig_tid.int"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/graph/phones/word_boundary.int",
+      "PackagePath": "staticwebassets/models/vosk-model/graph/phones/word_boundary.int"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/ivector/final.dubm",
+      "PackagePath": "staticwebassets/models/vosk-model/ivector/final.dubm"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/ivector/final.ie",
+      "PackagePath": "staticwebassets/models/vosk-model/ivector/final.ie"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/ivector/final.mat",
+      "PackagePath": "staticwebassets/models/vosk-model/ivector/final.mat"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/ivector/global_cmvn.stats",
+      "PackagePath": "staticwebassets/models/vosk-model/ivector/global_cmvn.stats"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/ivector/online_cmvn.conf",
+      "PackagePath": "staticwebassets/models/vosk-model/ivector/online_cmvn.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/ivector/splice.conf",
+      "PackagePath": "staticwebassets/models/vosk-model/ivector/splice.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/README",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/am/final.mdl",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/am/final.mdl"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/conf/mfcc.conf",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/conf/mfcc.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/conf/model.conf",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/conf/model.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/graph/Gr.fst",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/graph/Gr.fst"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/graph/HCLr.fst",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/graph/HCLr.fst"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/graph/disambig_tid.int",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/graph/disambig_tid.int"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/graph/phones/word_boundary.int",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/graph/phones/word_boundary.int"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/ivector/final.dubm",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/ivector/final.dubm"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/ivector/final.ie",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/ivector/final.ie"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/ivector/final.mat",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/ivector/final.mat"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/ivector/global_cmvn.stats",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/ivector/global_cmvn.stats"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/ivector/online_cmvn.conf",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/ivector/online_cmvn.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/models/vosk-model/vosk-model-small-en-us-0.15/ivector/splice.conf",
+      "PackagePath": "staticwebassets/models/vosk-model/vosk-model-small-en-us-0.15/ivector/splice.conf"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121438.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121438.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121438.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121438.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121444.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121444.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121444.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121444.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121452.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121452.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121452.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121452.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121455.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121455.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121455.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121455.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121457.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121457.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121457.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121457.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121723.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121723.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121723.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121723.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121726.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121726.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121726.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121726.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121727.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121727.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121727.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121727.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121729.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121729.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_121729.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_121729.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124019.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124019.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124019.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124019.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124021.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124021.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124021.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124021.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124033.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124033.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124033.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124033.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124230.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124230.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124230.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124230.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124437.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124437.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124437.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124437.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124439.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124439.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124439.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124439.txt"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124450.json",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124450.json"
+    },
+    {
+      "Id": "/home/milad/Desktop/milad-speechforcsharp/wwwroot/transcripts/transcript_20241115_124450.txt",
+      "PackagePath": "staticwebassets/transcripts/transcript_20241115_124450.txt"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.milad-speechforcsharp.props",
+      "PackagePath": "build\\milad-speechforcsharp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.milad-speechforcsharp.props",
+      "PackagePath": "buildMultiTargeting\\milad-speechforcsharp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.milad-speechforcsharp.props",
+      "PackagePath": "buildTransitive\\milad-speechforcsharp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.milad-speechforcsharp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

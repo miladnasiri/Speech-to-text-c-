@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/milad-speechforcsharp.props" />
+</Project>

@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/milad/Desktop/milad-speechforcsharp/milad-speechforcsharp.csproj": {}
+  },
+  "projects": {
+    "/home/milad/Desktop/milad-speechforcsharp/milad-speechforcsharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milad/Desktop/milad-speechforcsharp/milad-speechforcsharp.csproj",
+        "projectName": "milad-speechforcsharp",
+        "projectPath": "/home/milad/Desktop/milad-speechforcsharp/milad-speechforcsharp.csproj",
+        "packagesPath": "/home/milad/.nuget/packages/",
+        "outputPath": "/home/milad/Desktop/milad-speechforcsharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "NAudio.Core": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "NAudio.Lame": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "VaderSharp2": {
+              "target": "Package",
+              "version": "[3.3.2.1, )"
+            },
+            "Vosk": {
+              "target": "Package",
+              "version": "[0.3.38, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/252/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
